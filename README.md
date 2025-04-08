@@ -2,3 +2,7 @@
 
 
 ## _Fault tolerant sys for handling jobs via works managed by leader_
+
+## Somewhat thing i want to make
+
+![Diagram](assets/fault-tolerant.drawio.png)
