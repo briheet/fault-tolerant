@@ -5,4 +5,4 @@
 
 ## Somewhat thing i want to make
 
-![Diagram](assets/fault-tolerant.drawio.png)
+![Diagram](assets/fault-tolerant-white.drawio.png)
